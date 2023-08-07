@@ -25,6 +25,8 @@ pyinstaller --add-binary "path\\PIL;PIL" -F -w --icon=아이콘명.ico 파일명
 
 내부 주문 관리를 편리하게 하기 위해서 OCR을 이용하여 제작해 보았다.
 
+이미지에서 필요한 정보 부분만 ROI 설정하여서 인식한 후 값들을 가져와 양식에 맞게 대입하였다.
+
 ## 구현 사진
 
 <p align="center">
