@@ -29,10 +29,14 @@ pyinstaller --add-binary "path\\PIL;PIL" -F -w --icon=아이콘명.ico 파일명
 
 <p align="center">
   <a>
+    
     ![11](https://github.com/AF797/Shopping_mall_OCR/assets/86837707/47af9671-bd6c-415e-8a75-3eb3411f96d7)
+  
   </a>
   <a>
+    
     ![22](https://github.com/AF797/Shopping_mall_OCR/assets/86837707/302d7cd8-adb7-4394-b449-0b4d1fe0b76c)
+  
   </a>
 </p>
 
