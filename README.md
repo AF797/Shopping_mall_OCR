@@ -12,6 +12,10 @@
   </a>
 </p>
 
+- Tesseract-OCR
+  
+  https://github.com/tesseract-ocr/tesseract
+
 - Making EXE file
 ```
 pyinstaller --add-binary "path\\PIL;PIL" -F -w --icon=아이콘명.ico 파일명.py
@@ -21,19 +25,15 @@ pyinstaller --add-binary "path\\PIL;PIL" -F -w --icon=아이콘명.ico 파일명
 
 내부 주문 관리를 편리하게 하기 위해서 OCR을 이용하여 제작해 보았다.
 
-## 환경
-
-- Tesseract-OCR
-  
-  https://github.com/tesseract-ocr/tesseract
-
 ## 구현 사진
 
 <p align="center">
-  
-  ![11](https://github.com/AF797/Shopping_mall_OCR/assets/86837707/47af9671-bd6c-415e-8a75-3eb3411f96d7)
-  
-  ![22](https://github.com/AF797/Shopping_mall_OCR/assets/86837707/302d7cd8-adb7-4394-b449-0b4d1fe0b76c)
+  <a>
+    ![11](https://github.com/AF797/Shopping_mall_OCR/assets/86837707/47af9671-bd6c-415e-8a75-3eb3411f96d7)
+  </a>
+  <a>
+    ![22](https://github.com/AF797/Shopping_mall_OCR/assets/86837707/302d7cd8-adb7-4394-b449-0b4d1fe0b76c)
+  </a>
 </p>
 
 
