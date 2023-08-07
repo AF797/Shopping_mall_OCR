@@ -7,6 +7,7 @@
 ## 환경
 
 - Tesseract-OCR
+  
   https://github.com/tesseract-ocr/tesseract
 
 ## 구현 사진
